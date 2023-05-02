@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1683062904">
-  <project timestamp="1683062904">
+<coverage generated="1683063354">
+  <project timestamp="1683063354">
     <file name="/app/src/LTVatNumberFormatValidatorsConfig.php">
       <class name="rocketfellows\LTVatNumberFormatValidatorsConfig\LTVatNumberFormatValidatorsConfig" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
